@@ -14,3 +14,19 @@ Author: zjw
 Installed-Size: 264
 Name: bluetooth_fix
 
+Package: com.yourcompany.bluetoothfix
+Version: 0.0.1-17+debug
+Architecture: iphoneos-arm
+Maintainer: zjw
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: cydia.potatso.xyz/debs/com.yourcompany.bluetoothfix_0.0.1-17+debug_iphoneos-arm.deb
+Size: 269312
+MD5sum: 9fc9f38789a69d3b6a8a1089e05d5543
+SHA1: 790081d2abf7b1b0c29993d739a259131cc8e04f
+SHA256: 40ca490e14d17dfa8d30260c7d9d616d7629fc7c1c8f8adb458f2e8244bddef5
+Section: Tweaks
+Description: try to fix bluetoothd on ios 13
+Author: zjw
+Installed-Size: 264
+Name: bluetooth_fix
+
